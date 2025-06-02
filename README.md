@@ -1,5 +1,3 @@
----
-
 # 🧠 ML\_Project — Automated Street Hole Recognition using Machine Learning
 
 This repository contains the full implementation of our **machine learning and deep learning project and paper**:
